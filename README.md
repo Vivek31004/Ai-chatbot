@@ -28,5 +28,5 @@ A lightweight web application built with **Streamlit** and **Hugging Face Transf
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/healthcare-assistant-chatbot.git](https://github.com/your-username/healthcare-assistant-chatbot.git)
+   git clone [https://github.com/Vivek31004/healthcare-assistant-chatbot.git](https://github.com/Vivek31004/healthcare-assistant-chatbot.git)
    cd healthcare-assistant-chatbot
